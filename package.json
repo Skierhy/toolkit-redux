@@ -12,6 +12,7 @@
 	},
 	"dependencies": {
 		"@reduxjs/toolkit": "^1.8.6",
+		"axios": "^1.1.2",
 		"eslint": "^8.0.1",
 		"eslint-config-prettier": "^8.5.0",
 		"prettier": "^2.7.1",
